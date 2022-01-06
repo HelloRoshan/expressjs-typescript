@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "ES2016",
+        "module": "CommonJS"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
